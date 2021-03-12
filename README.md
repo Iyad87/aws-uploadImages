@@ -3,7 +3,7 @@
 This Project application shows how to upload objects to S3 directly from your end-user application using Signed URLs.
 
 
-![alt text](https://github.com/Dimitri-dW/TechGroundsDevOpsRED/blob/iyadDev/images/SolutionDiagram.png)
+![alt text](https://github.com/iyad87/aws-uploadImages/blob/iyadDev/images/SolutionDiagram.png)
 
 
 
